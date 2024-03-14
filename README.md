@@ -16,7 +16,7 @@ Hi, I'm Aymen Khoukhi!
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Softwere engenering last year at the University Of science and technology houari Boumediane.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-🌟 Main languages: Python, JavaScript.\
+🌟 Main languages: C, Java, JavaScript.\
 🚩 Interested in Full Stack Machine Learning Application development.\
 ✉️ &nbsp;You can shoot me an email at khoukhiaymen4@gmail.com I'll try to respond as soon as I can
 
@@ -66,14 +66,6 @@ Hi, I'm Aymen Khoukhi!
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
