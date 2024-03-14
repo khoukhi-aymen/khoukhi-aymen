@@ -46,8 +46,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aymen-khoukhi-659ab1287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="khoukhiaymen4@gmail.com"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://www.instagram.com/khoukhiayman/"/></a>
 <a href="https://web.facebook.com/?locale=ar_AR&_rdc=1&_rdr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
