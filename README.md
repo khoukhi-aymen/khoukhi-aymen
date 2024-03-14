@@ -14,10 +14,11 @@ Hi, I'm Aymen Khoukhi!
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Softwere engenering at the University Of science and technology houari Boumediane.\
+🎓 &nbsp;I'm currently studying Softwere engenering last year at the University Of science and technology houari Boumediane.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✉️ &nbsp;You can shoot me an email at khoukhiaymen4@gmail.com I'll try to respond as soon as I can.\
+🌟 Main languages: Python, JavaScript.\
 🚩 Interested in Full Stack Machine Learning Application development.\
+✉️ &nbsp;You can shoot me an email at khoukhiaymen4@gmail.com I'll try to respond as soon as I can
 
 ## 🛠️ My Favorite Tools
 
