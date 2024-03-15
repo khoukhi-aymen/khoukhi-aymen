@@ -14,7 +14,7 @@ Hi, I'm Aymen Khoukhi!
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Softwere engenering last year at the University Of science and technology houari Boumediane.\
+🎓 &nbsp;I'm currently now a graduate software engineer.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 🌟 Main languages: C, Java, JavaScript.\
 🚩 Interested in Full Stack Machine Learning Application development.\
